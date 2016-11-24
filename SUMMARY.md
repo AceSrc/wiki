@@ -1,5 +1,11 @@
 # Summary
-* [README](README.md)
-* [ACM-ICPC介绍](intro/README.md)
-    * [介绍](intro/intro.md)
-
+* [欢迎！](README.md)
+* 基本情况
+    * [竞赛介绍](intro/intro.md)
+    * 集训队规程
+* 编程入门
+* 基础技能
+* 数据结构与算法
+* Credits
+    * [维护人员名单](credits/devteam.md)
+    * [历届竞赛获奖名单](credits/hof.md)

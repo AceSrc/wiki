@@ -1,4 +1,4 @@
 all: 
-	rm -rf _book
+	rm -rf docs
 	gitbook build
-	mv _book docs
+	cp -r _book docs
