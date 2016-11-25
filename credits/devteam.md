@@ -3,11 +3,11 @@
 ## 历任教练
 
 * 现任
-    * 教练：马骏
-    * 助理教练：张晨麟、丁文韬、蒋炎岩
+    * 教练：[马骏](http://moon.nju.edu.cn/people/junma/)
+    * 助理教练：[张晨麟](http://lamda.nju.edu.cn/zhangcl/)、[丁文韬](http://ws.nju.edu.cn/people/wtding)、[蒋炎岩](http://moon.nju.edu.cn/~jyy)
 * 历史
-    * 赵建华教授
-    * 宋方敏教授
+    * 2006年-2010年: 赵建华教授
+    * ????年-2006年: 宋方敏教授
 
 ## Wiki
 

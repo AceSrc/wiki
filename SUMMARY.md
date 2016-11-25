@@ -58,4 +58,4 @@
     * 队伍配合
 * Credits
     * [维护人员名单](credits/devteam.md)
-    * [历届竞赛获奖名单](credits/hof.md)
+    * [历届队伍](credits/hof.md)
