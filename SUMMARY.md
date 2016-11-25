@@ -1,17 +1,14 @@
 # Summary
 
 * [欢迎！](README.md)
-* 为什么参加竞赛？
+* [为什么参加竞赛？](motivation.md)
 * 赛事介绍
     * [ICPC和CCPC](intro/intro.md)
-    * 民间竞赛
-* 集训队规程
-    * 集训队简介
-    * 训练规程
-    * 参赛流程
+    * [民间竞赛与活动](intro/events.md)
+    * [集训队规程](intro/team.md)
 * 资源列表
-    * 阅读列表
-    * 竞赛资源
+    * [阅读列表](resources/readings.md)
+    * [竞赛资源](resources/res.md)
 * 编程入门
     * 语言、技术与工具
     * 编程训练
