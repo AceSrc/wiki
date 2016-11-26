@@ -1,4 +1,5 @@
 {
-    "title": "ACMICPC Wiki",
-    "plugins": ["katex", "navigator", "anchors", "-fontsettings", "-sharing"]
+    "root": "./src",
+    "title": "南京大学ACM-ICPC集训队Wiki",
+    "plugins": ["katex", "navigator", "anchors", "-fontsettings", "-sharing", "-search", "-lunr"]
 }

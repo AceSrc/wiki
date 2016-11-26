@@ -8,6 +8,10 @@
     font-family: Palatino, serif;
 }
 
+.markdown-section pre > code {
+    font-size: 1.6rem;
+}
+
 .markdown-section li {
     text-align: justify;
     font-size: 1.6rem;
