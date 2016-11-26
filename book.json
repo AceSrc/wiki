@@ -1,20 +1,4 @@
 {
     "title": "ACMICPC Wiki",
-    "links": {
-        "sharing": {
-            "google": false,
-            "facebook": false,
-            "twitter": false,
-            "weibo": false,
-            "all": false
-        }
-    },
-    "plugins": ["katex", "etoc", "anchors"],
-    "pluginsConfig": {
-        "etoc": {
-            "mindepth": 3,
-            "maxdepth": 4,
-            "notoc": false
-        }
-    }
+    "plugins": ["katex", "navigator", "anchors", "fontsettings", "-sharing"]
 }

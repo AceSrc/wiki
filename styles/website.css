@@ -1,0 +1,17 @@
+.markdown-section h1 h2 h3 h4 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.markdown-section p {
+    text-align: justify;
+    font-size: 1.6rem;
+    font-family: Palatino, serif;
+}
+
+.markdown-section li {
+    text-align: justify;
+    font-size: 1.6rem;
+    font-family: Palatino, serif;
+}
+
+
