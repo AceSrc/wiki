@@ -18,4 +18,6 @@
     font-family: Palatino, serif;
 }
 
-
+.markdown-section #anchors-navbar ul {
+    list-style-type:none;
+}

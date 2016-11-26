@@ -1,7 +1,8 @@
 # Summary
 
 * [欢迎！](README.md)
-* [为什么参加竞赛？](motivation.md)
+* 前言
+    * [为什么参加竞赛？](preface/motivation.md)
 * 赛事介绍
     * [ICPC和CCPC](intro/intro.md)
     * [民间竞赛与活动](intro/events.md)
