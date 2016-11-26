@@ -1,4 +1,4 @@
 {
     "title": "ACMICPC Wiki",
-    "plugins": ["katex", "navigator", "anchors", "fontsettings", "-sharing"]
+    "plugins": ["katex", "navigator", "anchors", "-fontsettings", "-sharing"]
 }
