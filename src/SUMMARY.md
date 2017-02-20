@@ -54,6 +54,8 @@
 * 赛事备战
     * 代码模板库
     * 队伍配合
+* 竞赛讨论班
+    * [2017春季学期](seminar/2017spring.md)
 * Credits
     * [维护人员名单](credits/devteam.md)
     * [历届队伍](credits/hof.md)
